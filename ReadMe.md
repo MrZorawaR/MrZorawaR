@@ -1,5 +1,18 @@
-# 💫 About Me:
-🔭 I’m a Full stack web developer expertise in Next.js and MERN Stack<br>
+# 👋 Hi, I'm Nitish!  
+### 🚀 Full Stack Web Developer | CSE Student  
+
+Detail-oriented **Computer Science Engineering** student with practical experience in **Full Stack Web Development**, specializing in:  
+- 💻 **MERN Stack** (MongoDB, Express.js, React.js, Node.js)  
+- ⚡ **Next.js**, **TypeScript**, and modern JavaScript (ES6+)  
+- 🌐 Developing **responsive, scalable web applications** with a focus on UI design, RESTful API development, backend integration, and performance optimization.  
+
+### 💡 Experience  
+- 🛠️ **Internships at Naai India, Geeta Technical Hub, and Coding Blocks**  
+- 🔥 Strong foundation in **Data Structures and Algorithms (DSA)**  
+- 🔧 Skilled in **Git/GitHub** and collaborative software development.  
+
+### 🌟 Passion  
+Eager to contribute to **high-impact web projects** while continually expanding my expertise in **modern frameworks** and best coding practices.  
 
 
 ## 🌐 Socials:
